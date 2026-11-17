@@ -1,0 +1,10 @@
+run,mode,rep,normal_median_ms,median_ms,p99_ms,slow_seconds,transfers,first_transfer_s
+none_rep1,none,1,49.0,53.7,424.8,51,0,
+none_rep2,none,2,49.3,56.8,427.9,51,0,
+none_rep3,none,3,52.5,67.0,412.7,52,0,
+predictive_rep1,predictive,1,48.9,49.2,64.6,0,1,-12.6
+predictive_rep2,predictive,2,56.7,53.0,79.0,0,1,4.6
+predictive_rep3,predictive,3,58.0,54.7,80.5,0,1,14.8
+reactive_rep1,reactive,1,49.1,49.2,70.5,0,1,8.5
+reactive_rep2,reactive,2,49.6,49.3,88.0,0,1,26.6
+reactive_rep3,reactive,3,53.4,54.8,93.9,0,1,26.8

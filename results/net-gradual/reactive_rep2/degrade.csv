@@ -1,0 +1,10 @@
+timestamp,action,value
+1794759337.718,net_delay_ms,10
+1794759348.005,net_delay_ms,20
+1794759358.300,net_delay_ms,40
+1794759368.577,net_delay_ms,60
+1794759378.863,net_delay_ms,80
+1794759389.150,net_delay_ms,100
+1794759399.449,net_delay_ms,150
+1794759409.731,net_delay_ms,200
+1794759420.298,reset,

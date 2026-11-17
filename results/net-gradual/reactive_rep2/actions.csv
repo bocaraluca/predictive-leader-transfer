@@ -1,0 +1,3 @@
+timestamp,action,from,to,detail
+1794759322.663,calibrated,etcd1,,normal=18.26ms threshold=54.77ms
+1794759364.003,transfer,etcd1,etcd3,"slow for 5s, current=90.0ms"

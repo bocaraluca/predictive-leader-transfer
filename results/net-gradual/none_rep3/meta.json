@@ -1,0 +1,10 @@
+{
+  "scenario": "net-gradual",
+  "mode": "none",
+  "rep": 3,
+  "slow_node": "etcd1",
+  "start": 1794759602.8878524,
+  "degradation_start": 1794759632.8882735,
+  "degradation_end": 1794759717.7813432,
+  "end": 1794759743.4798133
+}

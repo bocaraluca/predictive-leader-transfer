@@ -1,0 +1,2 @@
+timestamp,action,from,to,detail
+1794759178.269,calibrated,etcd1,,normal=22.82ms threshold=68.47ms
